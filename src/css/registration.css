@@ -1,0 +1,97 @@
+.login-row {
+    display: flex;
+    align-items: center;
+}
+
+.textbox-column {
+    flex: 1;
+}
+
+.vertical-line {
+    height: 70%;
+    width: 1px;
+}
+
+.datepicker-item {
+    width: 80px;
+    height: 38px;
+    border-radius: 6px; 
+    margin-left: 10px;
+}
+
+.React-heading {
+    font-size: 5em;
+    font-weight: 100;
+}
+
+.Training-heading {
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+.date-selector {
+    display: flex;
+    align-items: center;
+}
+
+.date-picker,
+.month-picker,
+.year-picker {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.datepicker-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.datepicker-col {
+    margin-right: 3px;
+}
+
+.text-color {
+    font-weight: 'bold';
+}
+
+.custom-datepicker-width .react-datepicker-wrapper {
+    width: 150px;
+    /* Adjust the width as needed */
+}
+.line-column {
+    width: 1%;
+    height: 40rem;
+    border-right: 1px solid #ccc;
+}
+
+/* Media query for screens up to 768px width (mobile devices) */
+@media (max-width: 768px) {
+    .login-row {
+        flex-direction: column;
+    }
+
+    .line-column {
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+        margin: 0;
+    }
+
+    .textbox-column,
+    .line-column,
+    .image-column {
+        padding: 1rem;
+    }
+
+    .image-column {
+        text-align: center;
+    }
+
+    .React-heading {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .Training-heading {
+        font-size: 1.2rem;
+    }
+}

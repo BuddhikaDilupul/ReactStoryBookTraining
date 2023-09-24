@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "firstName": "abc",
+      "lastName": "abc",
+      "email": "abc@gmail.cin",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2020-08-06",
+      "id": 1
+    },
+    {
+      "firstName": "abc",
+      "lastName": "abc",
+      "email": "abc@gmail.com",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2021-08-03",
+      "id": 2
+    },
+    {
+      "firstName": "budd",
+      "lastName": "budd",
+      "email": "bud@gmi.mcn",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2022-11-06",
+      "id": 3
+    },
+    {
+      "firstName": "hello",
+      "lastName": "hello",
+      "email": "hello@gmail.com",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2019-11-24",
+      "id": 4
+    },
+    {
+      "firstName": "abc",
+      "lastName": "abc",
+      "email": "ac@dcv.bnm",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2020-09-06",
+      "id": 5
+    },
+    {
+      "firstName": "ads",
+      "lastName": "sad",
+      "email": "asd@sad.xcv",
+      "gender": "male",
+      "password": "@Abc1234",
+      "confirmPassword": "@Abc1234",
+      "phone": "1231231322",
+      "terms": true,
+      "bday": "2019-11-06",
+      "id": 6
+    },
+    {
+      "firstName": "abc",
+      "lastName": "abc",
+      "email": "abc@gmail.com",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "1231231232",
+      "terms": true,
+      "bday": "2018-11-03",
+      "id": 7
+    },
+    {
+      "firstName": "kasun",
+      "lastName": "kasun",
+      "email": "ka@gmail.com",
+      "gender": "male",
+      "password": "Abc@1234",
+      "confirmPassword": "Abc@1234",
+      "phone": "0711231232",
+      "terms": true,
+      "bday": "2023-11-08",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "98632b0c-f335-471e-ab1f-a15b16bf8e83",
+      "email": "b@gmail.com",
+      "password": "Abc@1234",
+      "firstName": "buddhika",
+      "lastName": "ranaweera",
+      "gender": "male",
+      "phone": "0234234243",
+      "bday": "2017-08-05"
+    }
+  ]
+}
