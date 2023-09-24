@@ -1,3 +1,17 @@
+This Project was developed with Storybook, RBoostrap, and Redux. 
+Data Can be saved and viewed.
+As a (mock) backend json-server added
+unit-testing ng done for a few components
+
+Run these commands in the terminal
+npm i
+npm start
+npm run test
+npm run json-server
+npm run storybook
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
